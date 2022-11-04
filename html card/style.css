@@ -1,0 +1,37 @@
+div{
+    background-color: rgb(37, 37, 37);
+    border-radius: 25px;
+    border: 2px solid black;
+    height: 600px;
+    width: 300px;
+    overflow: hidden;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+.first-text{
+    font-size: 18px;
+}
+.three{
+    width: 50px;
+    height: 50px;
+}
+.button{
+    text-align: center;
+}
+button{
+    background-color: white;
+    color: rgb(46, 46, 46);
+    border-radius: 25px;
+    width: 270px;;
+    height: 50px;
+    font-size: 15px;
+}
+section{
+    margin-bottom: 40px;
+}
+
+ul,li{
+    padding: 0px;
+    font-size: 12px;
+}
